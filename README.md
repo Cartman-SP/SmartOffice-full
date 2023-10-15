@@ -26,3 +26,10 @@ ipconfig
 ```sh
 python manage.py runserver 'ваш ipv4'
 ```
+в файлах приложения откройте файл Sign.xaml.cs и QRauth.xaml.cs измените  Ipv4 на ваш 
+в будущем будет созданно веб приложение для создания пользователей и добавления комнат
+тестовый профиль 
+```
+login : F1ower
+password: Qwerty1234567
+```
