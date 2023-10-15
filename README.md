@@ -1,8 +1,8 @@
 # Ссылки
 | Описание | Репозиторий |
 | ------ | ------ |
-| Server repo | https://github.com/Cartman-SP/SmartOfficeServe |
-| App repo | [https://github.com/Cartman-SP/SmartOffices](https://github.com/Cartman-SP/SmartOffices) |
+| Server repo | [https://github.com/Cartman-SP/SmartOfficeServe](https://github.com/Cartman-SP/SmartOfficeServer) |
+| App repo | [[https://github.com/Cartman-SP/SmartOffices](https://github.com/Cartman-SP/SmartOffices)](https://github.com/Cartman-SP/SmartOffices) |
 # Руководство по запуску сервера
 ```sh
 pip install django
